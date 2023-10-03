@@ -1,7 +1,7 @@
 <h1>Hi, I'm Jameson! <br/>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/Jameson-cmd/ActiveDirectoryLab)
 
     <h2>Certifications</h2>
 
