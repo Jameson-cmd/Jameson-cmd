@@ -3,8 +3,8 @@
 
   - [Active Directory Home Lab](https://github.com/Jameson-cmd/ActiveDirectoryLab)
   - [Building A Network Home Lab](https://github.com/Jameson-cmd/BuildingNetworkLab)
+<!---
     <h2>Certifications</h2>
-
 
 <h2> 🤳 Connect with me:</h2>
 
